@@ -7,7 +7,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, ContextTypes, CallbackQueryHandler, MessageHandler, filters
 
 # Конфигурация
-BOT_TOKEN = "8300013750:AAHiTKtID41M4Y_a5uRCnjzCIC1u0iGP24w"
+BOT_TOKEN = "YOUR_TOKEN"
 DB_FILE = "quotes.db"
 ADMIN_IDS = [123456789]
 
@@ -143,4 +143,5 @@ def main():
     application.run_polling()
 
 if __name__ == "__main__":
+
     main()
