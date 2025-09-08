@@ -1,4 +1,4 @@
-# 🤖 Telegram Quote Bot
+![5330031234853764432](https://github.com/user-attachments/assets/fc44d07c-c898-4e35-957a-355da2713e85)# 🤖 Telegram Quote Bot
 
 Простой Telegram-бот на Python, который умеет:
 - Отправлять случайную цитату по команде `/quote`.
@@ -35,6 +35,8 @@
     /addquote — добавить свою цитату (для админов)
     /stats - посмотреть статистику
 
-
-    
+🖼️ Пример работы
+![5330031234853764434](https://github.com/user-attachments/assets/c09cc881-79a6-40a2-b662-f40915f50a23)
+![5330031234853764432](https://github.com/user-attachments/assets/d13a4194-8b1d-49a9-ab9c-8c601bf87f98)
+![5330031234853764433](https://github.com/user-attachments/assets/25652d4d-2c8e-417d-b739-b519bf4c236d)
 
