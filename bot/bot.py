@@ -9,7 +9,7 @@ from telegram.ext import Application, CommandHandler, ContextTypes, CallbackQuer
 # Конфигурация
 BOT_TOKEN = "YOUR_TOKEN"
 DB_FILE = "quotes.db"
-ADMIN_IDS = [123456789]
+ADMIN_IDS = [IDs]
 
 # Настройка логирования
 logging.basicConfig(format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO)
@@ -145,3 +145,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
